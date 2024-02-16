@@ -1,0 +1,31 @@
+O(n + 10)
+O(100 * n)
+O(25)
+O(n^2 + n^3)
+O(n + n + n + n)
+O(1000 * log(n) + n)
+O(1000 * n * log(n) + n)
+O(2^n + n^2)
+O(5 + 3 + 1)
+O(n + n^(1/2) + n^2 + n * log(n)^10)
+
+1. Time Complexity: O(n)
+2. Time Complexity: O(max(n, 10))
+3. Time Complexity: O(min(n, 10))
+4. Time Complexity: O(n), where n is the length of the input array.
+5. Time Complexity: O(n^2)
+6. Time Complexity: O(m), where m is the length of the input string.
+
+1. true 
+2. true
+3. false
+4. O(n)
+5. O(n)
+6. O(n)
+7. O(n log n)
+8. O(n)
+9. O(1)
+10. O(1)
+11. O(1)
+12. O(n)
+13. O(n)
